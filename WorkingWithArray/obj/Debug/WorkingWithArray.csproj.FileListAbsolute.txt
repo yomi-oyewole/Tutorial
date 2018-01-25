@@ -1,0 +1,7 @@
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithArray\bin\Debug\WorkingWithArray.exe.config
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithArray\bin\Debug\WorkingWithArray.exe
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithArray\bin\Debug\WorkingWithArray.pdb
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithArray\obj\Debug\WorkingWithArray.csprojResolveAssemblyReference.cache
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithArray\obj\Debug\WorkingWithArray.csproj.CoreCompileInputs.cache
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithArray\obj\Debug\WorkingWithArray.exe
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithArray\obj\Debug\WorkingWithArray.pdb

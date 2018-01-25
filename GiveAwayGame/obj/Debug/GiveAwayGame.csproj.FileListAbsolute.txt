@@ -1,0 +1,7 @@
+C:\Users\testi_000\source\repos\ClassLibrary1\GiveAwayGame\bin\Debug\GiveAwayGame.exe.config
+C:\Users\testi_000\source\repos\ClassLibrary1\GiveAwayGame\bin\Debug\GiveAwayGame.exe
+C:\Users\testi_000\source\repos\ClassLibrary1\GiveAwayGame\bin\Debug\GiveAwayGame.pdb
+C:\Users\testi_000\source\repos\ClassLibrary1\GiveAwayGame\obj\Debug\GiveAwayGame.csprojResolveAssemblyReference.cache
+C:\Users\testi_000\source\repos\ClassLibrary1\GiveAwayGame\obj\Debug\GiveAwayGame.csproj.CoreCompileInputs.cache
+C:\Users\testi_000\source\repos\ClassLibrary1\GiveAwayGame\obj\Debug\GiveAwayGame.exe
+C:\Users\testi_000\source\repos\ClassLibrary1\GiveAwayGame\obj\Debug\GiveAwayGame.pdb

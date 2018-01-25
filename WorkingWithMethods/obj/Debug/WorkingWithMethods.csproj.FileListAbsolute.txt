@@ -1,0 +1,7 @@
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithMethods\bin\Debug\WorkingWithMethods.exe.config
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithMethods\bin\Debug\WorkingWithMethods.exe
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithMethods\bin\Debug\WorkingWithMethods.pdb
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithMethods\obj\Debug\WorkingWithMethods.csprojResolveAssemblyReference.cache
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithMethods\obj\Debug\WorkingWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithMethods\obj\Debug\WorkingWithMethods.exe
+C:\Users\testi_000\source\repos\ClassLibrary1\WorkingWithMethods\obj\Debug\WorkingWithMethods.pdb

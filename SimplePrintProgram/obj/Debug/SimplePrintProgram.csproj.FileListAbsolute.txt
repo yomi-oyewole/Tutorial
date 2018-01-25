@@ -1,0 +1,7 @@
+C:\Users\testi_000\source\repos\ClassLibrary1\SimplePrintProgram\bin\Debug\SimplePrintProgram.exe.config
+C:\Users\testi_000\source\repos\ClassLibrary1\SimplePrintProgram\bin\Debug\SimplePrintProgram.exe
+C:\Users\testi_000\source\repos\ClassLibrary1\SimplePrintProgram\bin\Debug\SimplePrintProgram.pdb
+C:\Users\testi_000\source\repos\ClassLibrary1\SimplePrintProgram\obj\Debug\SimplePrintProgram.csproj.CoreCompileInputs.cache
+C:\Users\testi_000\source\repos\ClassLibrary1\SimplePrintProgram\obj\Debug\SimplePrintProgram.exe
+C:\Users\testi_000\source\repos\ClassLibrary1\SimplePrintProgram\obj\Debug\SimplePrintProgram.pdb
+C:\Users\testi_000\source\repos\ClassLibrary1\SimplePrintProgram\obj\Debug\SimplePrintProgram.csprojResolveAssemblyReference.cache
